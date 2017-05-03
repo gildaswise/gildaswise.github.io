@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gildaswise.github.io/blog/finally-a-blog/</loc>
+    <lastmod>2017-05-02T22:54:36-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/about/</loc>
+    <lastmod>2017-05-02T22:46:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/about-this-site/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/blog/</loc>
+    <lastmod>2017-05-02T22:54:36-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://gildaswise.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://gildaswise.github.io/fixed/</loc>
+    <lastmod>2017-05-02T22:46:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/</loc>
+    <lastmod>2017-05-02T22:54:36-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

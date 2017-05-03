@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Gildásio Filho (@gildaswise)</title>
+    <link>https://gildaswise.github.io/</link>
+    <description>Recent content on Gildásio Filho (@gildaswise)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 May 2017 22:54:36 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gildaswise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finally a blog!</title>
+      <link>https://gildaswise.github.io/blog/finally-a-blog/</link>
+      <pubDate>Tue, 02 May 2017 22:54:36 -0300</pubDate>
+      
+      <guid>https://gildaswise.github.io/blog/finally-a-blog/</guid>
+      <description>So I&amp;rsquo;ve finally decided to make a decent page here. I&amp;rsquo;m using Hugo as a &amp;ldquo;backend&amp;rdquo; and color me impressed with how easy it was to make everything work. Cocoa is the name of this beautiful and minimalistic theme and kudos to Nishanth, the guy who made it!
+I&amp;rsquo;ll try to make posts really as frequent as I can but this isn&amp;rsquo;t a promise.
+Enjoy your stay and see you soon!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gildaswise.github.io/about/</link>
+      <pubDate>Tue, 02 May 2017 22:46:21 -0300</pubDate>
+      
+      <guid>https://gildaswise.github.io/about/</guid>
+      <description>I&amp;rsquo;m a software developer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Besides joining &amp;ldquo;late&amp;rdquo; to the party and for now (2017) with only two years of experience, I can already see what the future beholds and can&amp;rsquo;t wait to see what really comes next.
+I have a couple projects on the Play Store of my own, and another where I was paid to make which I&amp;rsquo;m not that proud of.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gildaswise.github.io/about-this-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gildaswise.github.io/about-this-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gildaswise.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gildaswise.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gildaswise.github.io/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gildaswise.github.io/writing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

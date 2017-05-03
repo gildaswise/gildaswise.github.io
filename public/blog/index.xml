@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Gildásio Filho (@gildaswise)</title>
+    <link>https://gildaswise.github.io/blog/</link>
+    <description>Recent content in Blog on Gildásio Filho (@gildaswise)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 May 2017 22:54:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://gildaswise.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finally a blog!</title>
+      <link>https://gildaswise.github.io/blog/finally-a-blog/</link>
+      <pubDate>Tue, 02 May 2017 22:54:36 -0300</pubDate>
+      
+      <guid>https://gildaswise.github.io/blog/finally-a-blog/</guid>
+      <description>So I&amp;rsquo;ve finally decided to make a decent page here. I&amp;rsquo;m using Hugo as a &amp;ldquo;backend&amp;rdquo; and color me impressed with how easy it was to make everything work. Cocoa is the name of this beautiful and minimalistic theme and kudos to Nishanth, the guy who made it!
+I&amp;rsquo;ll try to make posts really as frequent as I can but this isn&amp;rsquo;t a promise.
+Enjoy your stay and see you soon!</description>
+    </item>
+    
+  </channel>
+</rss>
