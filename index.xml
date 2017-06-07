@@ -6,10 +6,21 @@
     <description>Recent content on Gildásio Filho (@gildaswise)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 May 2017 22:54:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 11:56:25 -0300</lastBuildDate>
     
 	<atom:link href="https://gildaswise.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A little overview about side projects!</title>
+      <link>https://gildaswise.github.io/blog/side-projects/</link>
+      <pubDate>Wed, 07 Jun 2017 11:56:25 -0300</pubDate>
+      
+      <guid>https://gildaswise.github.io/blog/side-projects/</guid>
+      <description>After a month I figured out that another post here would be something nice to do, right?
+I&amp;rsquo;m going to talk a little about each of my current side projects as of this day, starting with my very first app: Studere, which is almost one year without updates. Yeah.
+Studere is a fairly basic app, you can add scores by bimester (something apparently only used here in Brazil), create subjects, its appointments and tests and manage your schedule.</description>
+    </item>
     
     <item>
       <title>Finally a blog!</title>
