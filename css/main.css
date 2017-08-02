@@ -485,12 +485,12 @@ section.main .container .content .post-item {
   -moz-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  display: list-item;
+  display: inline-table;
   list-style: disc inside;
 }
 section.main .container .content .post-item .meta {
   color: #666;
-  display: none;
+  display: flex;
   min-width: 100px;
   text-align: right;
   margin-right: 16px;
