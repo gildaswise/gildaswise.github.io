@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Gildaswise</title>
-    <link>http://gildaswise.com/posts/</link>
+    <link>https://gildaswise.com/posts/</link>
     <description>Recent content in Posts on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Jul 2018 11:56:25 -0300</lastBuildDate>
     
-	<atom:link href="http://gildaswise.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gildaswise.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I kind of left this blog behind</title>
-      <link>http://gildaswise.com/posts/left-behind/</link>
+      <link>https://gildaswise.com/posts/left-behind/</link>
       <pubDate>Wed, 04 Jul 2018 11:56:25 -0300</pubDate>
       
-      <guid>http://gildaswise.com/posts/left-behind/</guid>
+      <guid>https://gildaswise.com/posts/left-behind/</guid>
       <description>So, yeah. Maybe I&amp;rsquo;m not good enough doing these blog posts but I swear I&amp;rsquo;ll try to come here at least once a quarter write something about what I learned.
 Almost a year has passed since my last post here and a lot happened since then.
 First of all, I&amp;rsquo;m done with my graduation except some bureaucracy involving getting my degree itself. Second, I found someone amazing that I can&amp;rsquo;t even describe with words.</description>
@@ -24,10 +24,10 @@ First of all, I&amp;rsquo;m done with my graduation except some bureaucracy invo
     
     <item>
       <title>A little overview about side projects!</title>
-      <link>http://gildaswise.com/posts/side-projects/</link>
+      <link>https://gildaswise.com/posts/side-projects/</link>
       <pubDate>Wed, 07 Jun 2017 11:56:25 -0300</pubDate>
       
-      <guid>http://gildaswise.com/posts/side-projects/</guid>
+      <guid>https://gildaswise.com/posts/side-projects/</guid>
       <description>After a month I figured out that another post here would be something nice to do, right?
 I&amp;rsquo;m going to talk a little about each of my current side projects as of this day, starting with my very first app: Studere, which is almost one year without updates. Yeah.
 Studere is a fairly basic app, you can add scores by bimester (something apparently only used here in Brazil), create subjects, its appointments and tests and manage your schedule.</description>
@@ -35,10 +35,10 @@ Studere is a fairly basic app, you can add scores by bimester (something apparen
     
     <item>
       <title>Finally a blog!</title>
-      <link>http://gildaswise.com/posts/finally-a-blog/</link>
+      <link>https://gildaswise.com/posts/finally-a-blog/</link>
       <pubDate>Tue, 02 May 2017 22:54:36 -0300</pubDate>
       
-      <guid>http://gildaswise.com/posts/finally-a-blog/</guid>
+      <guid>https://gildaswise.com/posts/finally-a-blog/</guid>
       <description>So I&amp;rsquo;ve finally decided to make a decent page here. I&amp;rsquo;m using Hugo as a &amp;ldquo;backend&amp;rdquo; and color me impressed with how easy it was to make everything work. Cocoa is the name of this beautiful and minimalistic theme and kudos to Nishanth, the guy who made it!
 I&amp;rsquo;ll try to make posts really as frequent as I can but this isn&amp;rsquo;t a promise.
 Enjoy your stay and see you soon!</description>
