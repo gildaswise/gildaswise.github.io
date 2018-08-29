@@ -6,10 +6,21 @@
     <description>Recent content on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jul 2018 12:19:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 15:49:55 -0300</lastBuildDate>
     
 	<atom:link href="https://gildaswise.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sosin&#39;s information and privacy policy</title>
+      <link>https://gildaswise.com/sosin/</link>
+      <pubDate>Wed, 29 Aug 2018 15:49:55 -0300</pubDate>
+      
+      <guid>https://gildaswise.com/sosin/</guid>
+      <description>Sosin Sosin is a messaging application focused on a fast and secure interaction between its users.
+The main idea revolves around being able to only send and see one message at a time, which means there&amp;rsquo;s no history of your messages beside the most recent update.
+If you&amp;rsquo;re talking with someone, and you already sent &amp;ldquo;Hi!&amp;rdquo;, but just updated your message to &amp;ldquo;How are you?&amp;rdquo;, it means that &amp;ldquo;Hi!&amp;rdquo; will be saved as what we call last message, and it can be viewed once you unlock that chat, until its removal.</description>
+    </item>
     
     <item>
       <title>Flutter: Adding sign in with Google and phone authentication to your app</title>
