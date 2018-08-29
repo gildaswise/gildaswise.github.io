@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gildaswise.com/about/</loc>
+    <lastmod>2018-08-29T16:13:32-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gildaswise.com/sosin/</loc>
     <lastmod>2018-08-29T15:49:55-03:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://gildaswise.com/posts/left-behind/</loc>
     <lastmod>2018-07-04T11:56:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/about/</loc>
-    <lastmod>2018-07-04T11:30:55-03:00</lastmod>
   </url>
   
   <url>
@@ -39,7 +39,7 @@
   
   <url>
     <loc>https://gildaswise.com/</loc>
-    <lastmod>2018-08-29T15:49:55-03:00</lastmod>
+    <lastmod>2018-08-29T16:13:32-03:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,21 @@
     <description>Recent content on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Aug 2018 15:49:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 16:13:32 -0300</lastBuildDate>
     
 	<atom:link href="https://gildaswise.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://gildaswise.com/about/</link>
+      <pubDate>Wed, 29 Aug 2018 16:13:32 -0300</pubDate>
+      
+      <guid>https://gildaswise.com/about/</guid>
+      <description>I&amp;rsquo;m a software engineer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Maybe the musician part isn&amp;rsquo;t, which is a bonus.
+I have a couple projects on the Play Store of my own, a few albums published on Bandcamp and other streaming services, linked down below.
+ Spotify Google Play iTunes Deezer Amazon Music  I&amp;rsquo;m currently developing and focusing on Sosin, which is a messaging app with a bit of a twist on how messages are stored.</description>
+    </item>
     
     <item>
       <title>Sosin&#39;s information and privacy policy</title>
@@ -17,9 +28,9 @@
       <pubDate>Wed, 29 Aug 2018 15:49:55 -0300</pubDate>
       
       <guid>https://gildaswise.com/sosin/</guid>
-      <description>Sosin Sosin is a messaging application focused on a fast and secure interaction between its users.
+      <description>Sosin is a messaging application focused on a fast and secure interaction between its users, currently available for beta testing on Play Store and Apple&amp;rsquo;s TestFlight.
 The main idea revolves around being able to only send and see one message at a time, which means there&amp;rsquo;s no history of your messages beside the most recent update.
-If you&amp;rsquo;re talking with someone, and you already sent &amp;ldquo;Hi!&amp;rdquo;, but just updated your message to &amp;ldquo;How are you?&amp;rdquo;, it means that &amp;ldquo;Hi!&amp;rdquo; will be saved as what we call last message, and it can be viewed once you unlock that chat, until its removal.</description>
+If you&amp;rsquo;re talking with someone, and you already sent &amp;ldquo;Hi!&amp;rdquo;, but just updated your message to &amp;ldquo;How are you?</description>
     </item>
     
     <item>
@@ -42,17 +53,6 @@ I&amp;rsquo;m planning to do more tutorials like this for Flutter-related things
       <description>So, yeah. Maybe I&amp;rsquo;m not good enough doing these blog posts but I swear I&amp;rsquo;ll try to come here at least once a quarter write something about what I learned.
 Almost a year has passed since my last post here and a lot happened since then.
 First of all, I&amp;rsquo;m done with my graduation except some bureaucracy involving getting my degree itself. Second, I found someone amazing that I can&amp;rsquo;t even describe with words.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://gildaswise.com/about/</link>
-      <pubDate>Wed, 04 Jul 2018 11:30:55 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/about/</guid>
-      <description>I&amp;rsquo;m a software engineer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Maybe the musician part isn&amp;rsquo;t, which is a bonus.
-I have a couple projects on the Play Store of my own, a few albums published on Bandcamp and other streaming services, linked down below.
- Spotify Google Play iTunes Deezer Amazon Music  I&amp;rsquo;m also the co-founder of Luki which was both my final project for my graduation as a software engineer and my first try on the &amp;ldquo;app platform&amp;rdquo; market.</description>
     </item>
     
     <item>
