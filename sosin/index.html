@@ -96,7 +96,7 @@
 <li>The last message, with the timestamp of the last &ldquo;lost&rdquo; message (as described above)</li>
 </ul>
 
-<p>As you can see, there isn&rsquo;t a &ldquo;list of messages&rdquo; as every other messaging app, which is our main differential: all messages are <em>overwrited</em> instead of <em>created</em>. Once you send a message on other messaging apps, there will be a new registry for that, while on Sosin, it&rsquo;s always the same registry, forever changing only its contents and timestamp.</p>
+<p>As you can see, there isn&rsquo;t a &ldquo;list of messages&rdquo; as every other messaging app, which is our main distinguishing feature: <strong>all messages are <em>overwritten</em> instead of <em>created</em></strong>. Once you send a message on other messaging apps, there will be a new registry for that, while on Sosin, it&rsquo;s always the same registry, forever changing only its contents and timestamp.</p>
 
 <p>If you&rsquo;re concerned with security, Sosin is using Firebase&rsquo;s Cloud Firestore, which is <a href="https://cloud.google.com/firestore/docs/server-side-encryption">encrypted</a> using the 256-bit Advanced Encryption Standard, and each encryption key is itself encrypted with a regularly rotated set of master keys.</p>
 
