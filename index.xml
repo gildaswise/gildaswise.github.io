@@ -6,10 +6,30 @@
     <description>Recent content on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Aug 2018 16:13:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 12:59:55 -0300</lastBuildDate>
     
 	<atom:link href="https://gildaswise.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://gildaswise.com/sosin-privacy-policy/</link>
+      <pubDate>Tue, 04 Sep 2018 12:59:55 -0300</pubDate>
+      
+      <guid>https://gildaswise.com/sosin-privacy-policy/</guid>
+      <description>Gildásio Filho built the Sosin app as a Free app. This SERVICE is provided by Gildásio Filho at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>https://gildaswise.com/sosin-eula/</link>
+      <pubDate>Tue, 04 Sep 2018 12:59:55 -0300</pubDate>
+      
+      <guid>https://gildaswise.com/sosin-eula/</guid>
+      <description>By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -23,7 +43,7 @@ I have a couple projects on the Play Store of my own, a few albums published on 
     </item>
     
     <item>
-      <title>Sosin&#39;s information and privacy policy</title>
+      <title>Sosin</title>
       <link>https://gildaswise.com/sosin/</link>
       <pubDate>Wed, 29 Aug 2018 15:49:55 -0300</pubDate>
       
