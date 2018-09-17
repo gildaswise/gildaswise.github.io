@@ -1,57 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gildaswise</title>
-    <link>https://gildaswise.com/</link>
-    <description>Recent content on Gildaswise</description>
+    <title>Postagens on Gildaswise</title>
+    <link>https://gildaswise.com/postagens/</link>
+    <description>Recent content in Postagens on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 04 Sep 2018 12:59:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 12:19:25 -0300</lastBuildDate>
     
-	<atom:link href="https://gildaswise.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gildaswise.com/postagens/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Política de Privacidade</title>
-      <link>https://gildaswise.com/sosin-privacy-policy/</link>
-      <pubDate>Tue, 04 Sep 2018 12:59:55 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/sosin-privacy-policy/</guid>
-      <description>Gildásio Filho construiu o aplicativo Sosin como um aplicativo gratuito. Este SERVIÇO é fornecido por Gildásio Filho sem nenhum custo e é destinado para uso como está.
-Esta página é usada para informar os visitantes sobre minhas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o meu Serviço.
-Se você optar por usar o meu Serviço, você concorda com a coleta e uso de informações em relação a esta política.</description>
-    </item>
-    
-    <item>
-      <title>Termos de serviço e de utilização</title>
-      <link>https://gildaswise.com/sosin-eula/</link>
-      <pubDate>Tue, 04 Sep 2018 12:59:55 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/sosin-eula/</guid>
-      <description>Ao fazer o download ou usar o aplicativo, esses termos serão aplicados automaticamente a você. Portanto, lembre-se de lê-los cuidadosamente antes de usar o aplicativo. Você não tem permissão para copiar ou modificar de qualquer forma o aplicativo, qualquer parte do aplicativo ou nossas marcas registradas. Você não tem permissão para tentar extrair o código-fonte do aplicativo e também não deve tentar traduzir o aplicativo para outros idiomas nem criar versões derivadas sem a devida permissão.</description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://gildaswise.com/sobre/</link>
-      <pubDate>Wed, 29 Aug 2018 16:13:32 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/sobre/</guid>
-      <description>I&amp;rsquo;m a software engineer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Maybe the musician part isn&amp;rsquo;t, which is a bonus.
-I have a couple projects on the Play Store of my own, a few albums published on Bandcamp and other streaming services, linked down below.
- Spotify Google Play iTunes Deezer Amazon Music  I&amp;rsquo;m currently developing and focusing on Sosin, which is a messaging app with a bit of a twist on how messages are stored.</description>
-    </item>
-    
-    <item>
-      <title>Sosin</title>
-      <link>https://gildaswise.com/sosin/</link>
-      <pubDate>Wed, 29 Aug 2018 15:49:55 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/sosin/</guid>
-      <description>Sosin é um aplicativo de conversas focado numa interação rápida e segura entre seus usuários, atualmente disponível em ambas Google Play Store e App Store.
-
-A ideia do aplicativo gira em torno de você só poder mandar e ver uma mensagem por vez, o que significa que não há histórico das suas mensagens exceto a atualização mais recente desta. Não há anúncios no aplicativo e nossa forma de monetização é baseada no processo abaixo.</description>
-    </item>
     
     <item>
       <title>Flutter: Adding sign in with Google and phone authentication to your app</title>
