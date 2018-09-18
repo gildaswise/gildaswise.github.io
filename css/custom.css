@@ -1,0 +1,25 @@
+/* override css styles of the main theme here */
+
+.twitter {
+    color: #1DA1F3 !important;
+}
+
+.linkedin {
+    color: #0077B5 !important;
+}
+
+.spotify {
+    color: #1db954 !important;
+}
+
+.bandcamp {
+    color: #639AA9 !important;
+}
+
+.youtube {
+    color: #FF0000 !important;
+}
+
+.play_music {
+    color: #F75934 !important;
+}
