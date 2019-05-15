@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gildaswise.com/</loc>
+    <lastmod>2018-09-24T18:16:55-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gildaswise.com/match-maker-privacy-policy/</loc>
     <lastmod>2018-09-24T18:16:55-03:00</lastmod>
     <xhtml:link
@@ -93,6 +109,12 @@
   </url>
   
   <url>
+    <loc>https://gildaswise.com/posts/</loc>
+    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gildaswise.com/posts/left-behind/</loc>
     <lastmod>2018-07-04T11:56:25-03:00</lastmod>
     <xhtml:link
@@ -150,28 +172,6 @@
                 hreflang="en"
                 href="https://gildaswise.com/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/</loc>
-    <lastmod>2018-09-24T18:16:55-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/posts/</loc>
-    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
