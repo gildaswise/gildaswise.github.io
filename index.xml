@@ -6,10 +6,21 @@
     <description>Recent content on Gildaswise</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Sep 2018 18:16:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 13:13:16 -0300</lastBuildDate>
     
 	<atom:link href="https://gildaswise.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://gildaswise.com/about/</link>
+      <pubDate>Wed, 15 May 2019 13:13:16 -0300</pubDate>
+      
+      <guid>https://gildaswise.com/about/</guid>
+      <description>I&amp;rsquo;m a software engineer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Maybe the musician part isn&amp;rsquo;t, which is a bonus.
+I have a couple projects on the Play Store of my own, a few albums published on Bandcamp and other streaming services, linked down below.
+ Spotify Google Play iTunes Deezer Amazon Music  I&amp;rsquo;ve been working with Flutter for a year as of now, and I&amp;rsquo;ve published several apps with it!</description>
+    </item>
     
     <item>
       <title>Match Maker&#39;s Privacy Policy</title>
@@ -40,17 +51,6 @@ If you choose to use my Service, then you agree to the collection and use of inf
       
       <guid>https://gildaswise.com/sosin-eula/</guid>
       <description>By downloading or using the app, these terms will automatically apply to you – you should therefore make sure to read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://gildaswise.com/about/</link>
-      <pubDate>Wed, 29 Aug 2018 16:13:32 -0300</pubDate>
-      
-      <guid>https://gildaswise.com/about/</guid>
-      <description>I&amp;rsquo;m a software engineer who seeks to help people. Pretty normal, isn&amp;rsquo;t it? Maybe the musician part isn&amp;rsquo;t, which is a bonus.
-I have a couple projects on the Play Store of my own, a few albums published on Bandcamp and other streaming services, linked down below.
- Spotify Google Play iTunes Deezer Amazon Music  I&amp;rsquo;m currently developing and focusing on Sosin, which is a messaging app with a bit of a twist on how messages are stored.</description>
     </item>
     
     <item>

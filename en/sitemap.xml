@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gildaswise.com/about/</loc>
+    <lastmod>2019-05-15T13:13:16-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/sobre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gildaswise.com/</loc>
-    <lastmod>2018-09-24T18:16:55-03:00</lastmod>
+    <lastmod>2019-05-15T13:13:16-03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -60,21 +75,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gildaswise.com/sosin-eula/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/about/</loc>
-    <lastmod>2018-08-29T16:13:32-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/sobre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/about/"
                 />
   </url>
   
