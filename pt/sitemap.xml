@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gildaswise.com/pt/sosin/</loc>
+    <lastmod>2020-11-13T11:00:55-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/sosin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/sosin/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gildaswise.com/pt/about/</loc>
     <lastmod>2019-05-15T13:13:16-03:00</lastmod>
     <xhtml:link
@@ -59,21 +74,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://gildaswise.com/pt/sosin-eula/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/pt/sosin/</loc>
-    <lastmod>2018-08-29T15:49:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/sosin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/sosin/"
                 />
   </url>
   
