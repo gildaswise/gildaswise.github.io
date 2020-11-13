@@ -1,25 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gildaswise.com/pt/</loc>
-    <lastmod>2019-05-15T13:13:16-03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/pt/sobre/</loc>
+    <loc>https://gildaswise.com/pt/about/</loc>
     <lastmod>2019-05-15T13:13:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -29,7 +13,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://gildaswise.com/pt/sobre/"
+                href="https://gildaswise.com/pt/about/"
                 />
   </url>
   
@@ -94,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://gildaswise.com/pt/postagens/flutter-autenticacao-telefone/</loc>
+    <loc>https://gildaswise.com/pt/postagens/flutter-phone-auth/</loc>
     <lastmod>2018-07-09T12:19:25-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -104,64 +88,32 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://gildaswise.com/pt/postagens/flutter-autenticacao-telefone/"
+                href="https://gildaswise.com/pt/postagens/flutter-phone-auth/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gildaswise.com/pt/</loc>
+    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/"
                 />
   </url>
   
   <url>
     <loc>https://gildaswise.com/pt/postagens/</loc>
     <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/pt/postagens/deixado-de-lado/</loc>
-    <lastmod>2018-07-04T11:56:25-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/posts/left-behind/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/postagens/deixado-de-lado/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/pt/postagens/projetos/</loc>
-    <lastmod>2017-06-07T11:56:25-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/posts/side-projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/postagens/projetos/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://gildaswise.com/pt/postagens/finalmente-um-blog/</loc>
-    <lastmod>2017-05-02T22:54:36-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/posts/finally-a-blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/postagens/finalmente-um-blog/"
-                />
   </url>
   
   <url>
     <loc>https://gildaswise.com/pt/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -176,7 +128,6 @@
   
   <url>
     <loc>https://gildaswise.com/pt/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
