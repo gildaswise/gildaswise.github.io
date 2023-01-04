@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gildaswise.com/sosin/</loc>
     <lastmod>2020-11-13T11:00:55-03:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/sosin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/about/</loc>
     <lastmod>2019-05-15T13:13:16-03:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/match-maker-privacy-policy/</loc>
     <lastmod>2018-09-24T18:16:55-03:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/match-maker-privacy-policy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/sosin-privacy-policy/</loc>
     <lastmod>2018-09-04T12:59:55-03:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/sosin-privacy-policy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/sosin-eula/</loc>
     <lastmod>2018-09-04T12:59:55-03:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/sosin-eula/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/posts/flutter-phone-auth/</loc>
     <lastmod>2018-07-09T12:19:25-03:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/posts/flutter-phone-auth/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/</loc>
     <lastmod>2018-07-09T12:19:25-03:00</lastmod>
     <xhtml:link
@@ -105,14 +92,10 @@
                 hreflang="en"
                 href="https://gildaswise.com/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/posts/</loc>
     <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -124,9 +107,7 @@
                 hreflang="en"
                 href="https://gildaswise.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gildaswise.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,5 +120,4 @@
                 href="https://gildaswise.com/tags/"
                 />
   </url>
-  
 </urlset>
