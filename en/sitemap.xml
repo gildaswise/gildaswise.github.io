@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gildaswise.com/</loc>
+    <lastmod>2023-10-22T16:52:32-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/"
+                />
+  </url><url>
     <loc>https://gildaswise.com/deckblue-privacy-policy/</loc>
     <lastmod>2023-10-22T16:52:32-03:00</lastmod>
   </url><url>
@@ -84,19 +97,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://gildaswise.com/posts/flutter-phone-auth/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/</loc>
-    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/"
                 />
   </url><url>
     <loc>https://gildaswise.com/posts/</loc>
