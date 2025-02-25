@@ -2,100 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gildaswise.com/pt/</loc>
-    <lastmod>2020-11-13T11:00:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/sosin/</loc>
-    <lastmod>2020-11-13T11:00:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/sosin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/sosin/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/about/</loc>
-    <lastmod>2019-05-15T13:13:16-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/about/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/sosin-privacy-policy/</loc>
-    <lastmod>2018-09-04T12:59:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/sosin-privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/sosin-privacy-policy/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/match-maker-privacy-policy/</loc>
-    <lastmod>2018-09-04T12:59:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/match-maker-privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/match-maker-privacy-policy/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/sosin-eula/</loc>
-    <lastmod>2018-09-04T12:59:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/sosin-eula/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/sosin-eula/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/postagens/flutter-phone-auth/</loc>
-    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gildaswise.com/posts/flutter-phone-auth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://gildaswise.com/pt/postagens/flutter-phone-auth/"
-                />
-  </url><url>
-    <loc>https://gildaswise.com/pt/postagens/</loc>
-    <lastmod>2018-07-09T12:19:25-03:00</lastmod>
-  </url><url>
     <loc>https://gildaswise.com/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -106,6 +12,18 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://gildaswise.com/pt/categories/"
+                />
+  </url><url>
+    <loc>https://gildaswise.com/pt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gildaswise.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://gildaswise.com/pt/"
                 />
   </url><url>
     <loc>https://gildaswise.com/pt/tags/</loc>
